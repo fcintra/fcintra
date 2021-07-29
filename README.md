@@ -1,4 +1,12 @@
-## Olá! Eu sou o Matheus Cintra
+## Olá, Galera!
+
+## Eu sou o Matheus Cintra
+- Tenho 18 anos
+- Graduando em Ciência da computação
+- Estou adentrando a area de desenvolvimento web - Front end
+
+
+
  <div>
   <a href="https://github.com/fcintra">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=fcintra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
