@@ -1,6 +1,6 @@
-## Olá, Galera! Tudo bem? 
+## Falaaa, Galera! Tudo bem? 
 
-## Eu sou o Matheus Cintra
+## Eu sou o Matheus Cintra! 
 - Tenho 18 anos
 - Graduando em Ciência da computação
 - Estou adentrando a área de Desenvolvimento Web - Front end
