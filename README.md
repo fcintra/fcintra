@@ -3,7 +3,7 @@
 ## Eu sou o Matheus Cintra
 - Tenho 18 anos
 - Graduando em Ciência da computação
-- Estou adentrando a area de desenvolvimento web - Front end
+- Estou adentrando a area de Desenvolvimento Web - Front end
 
 
 
@@ -23,7 +23,7 @@
   <br>
 <div> 
  
-<a href="https://www.linkedin.com/in/matheuscintraf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/matheuscintraf/" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/fcintra/fcintra/blob/output/github-contribution-grid-snake.svg)
  
