@@ -1,6 +1,6 @@
-## Olá! 
+## Olá 
 
-## Eu sou o Matheus Cintra! 
+## Eu sou o Matheus Cintra,
 - Tenho 19 anos
 - Graduando em Ciência da computação, 5° semestre.
 
